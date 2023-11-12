@@ -1,5 +1,8 @@
+# AED 2 DOGO
+# Johnatas Philipe Rodrigues da Silva
+# Pedro Henrique Souza dos Santos
+
 # Functions related to Dogo project
-# by Johnatas Silva and Pedro Santos
 
 # ------- MAX HEAPIFY -------
 def max_heapify(arr, n, i):
